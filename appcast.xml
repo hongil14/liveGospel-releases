@@ -2,5 +2,26 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>LiveGospel</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Sat, 24 Oct 2026 23:53:34 -0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://updates.livegospel.net/app/LiveGospel-1.0.1.zip" length="47472238" type="application/octet-stream" sparkle:edSignature="iyYgh9qCrdyLBCUvOlFiAxg6+aKc1sD1BqC8TmeHb8rM6TeDkljd8y6aLhgToGHNqMNnb3SJzMMKvnA0bq/8AQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://updates.livegospel.net/app/LiveGospel3-2.delta" sparkle:deltaFrom="2" length="3348502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="orZa26XCTRdfWhNNdJmCrJOcoqhGsauWD9oy6fz1DvBUTqicUv24NWJI6pX02kzWFt8oGzFIwdgzOK3w5qJ7Bg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sat, 17 Oct 2026 18:10:48 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://updates.livegospel.net/app/LiveGospel-1.0.0.zip" length="46207169" type="application/octet-stream" sparkle:edSignature="rkGbU8d4ftE1JBtYG95kAlbsKpyz/Qq1lVXZ3VADz8F/0fdsuroSsofeEGLTP8xhRQ4PlCdPhKNlCpn4j+MDDQ=="/>
+        </item>
     </channel>
 </rss>
